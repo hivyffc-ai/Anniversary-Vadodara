@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anniversarydinnervadodara.com/sitemap-index.xml
