@@ -103,11 +103,11 @@ Perfect for couples seeking a memorable way to celebrate their love milestone.`,
       "Photo Corner Setup"
     ],
     perfectFor: ["Wedding Anniversary", "Dating Anniversary", "Milestone Celebrations", "Romantic Surprises"],
-    thumbnail: "/images/gallery/IMG_20251108_195907946.jpg",
+    thumbnail: "/images/gallery/IMG_20251108_195907946.webp",
     images: [
-      "/images/gallery/IMG_20251108_195907946.jpg",
-      "/images/gallery/IMG_20251108_195914428.jpg",
-      "/images/gallery/IMG_20251108_195959576.jpg"
+      "/images/gallery/IMG_20251108_195907946.webp",
+      "/images/gallery/IMG_20251108_195914428.webp",
+      "/images/gallery/IMG_20251108_195959576.webp"
     ]
   },
   {
@@ -154,11 +154,11 @@ Ideal for couples who appreciate elegance and want an intimate, private celebrat
       "Photo-Ready Décor"
     ],
     perfectFor: ["Wedding Anniversary", "1st Anniversary", "Silver Anniversary", "Golden Anniversary"],
-    thumbnail: "/images/gallery/IMG_20251117_201140680.jpg",
+    thumbnail: "/images/gallery/IMG_20251117_201140680.webp",
     images: [
-      "/images/gallery/IMG_20251117_201140680.jpg",
-      "/images/gallery/IMG_20251117_201157039.jpg",
-      "/images/gallery/IMG_20251108_200130169.jpg"
+      "/images/gallery/IMG_20251117_201140680.webp",
+      "/images/gallery/IMG_20251117_201157039.webp",
+      "/images/gallery/IMG_20251108_200130169.webp"
     ]
   },
   {
@@ -205,11 +205,11 @@ Perfect for couples who love outdoor settings and starry nights.`,
       "Romantic Music Playlist"
     ],
     perfectFor: ["Dating Anniversary", "Engagement Anniversary", "Romantic Milestone", "Surprise Anniversary"],
-    thumbnail: "/images/gallery/IMG_20251126_195504828.jpg",
+    thumbnail: "/images/gallery/IMG_20251126_195504828.webp",
     images: [
-      "/images/gallery/IMG_20251126_195504828.jpg",
-      "/images/gallery/IMG_20251126_195520782.jpg",
-      "/images/gallery/IMG_20251126_195542577.jpg"
+      "/images/gallery/IMG_20251126_195504828.webp",
+      "/images/gallery/IMG_20251126_195520782.webp",
+      "/images/gallery/IMG_20251126_195542577.webp"
     ]
   },
   {
@@ -255,11 +255,11 @@ Ideal for couples who love classic romance and timeless elegance.`,
       "Cake Available (+₹500)"
     ],
     perfectFor: ["Wedding Anniversary", "Romantic Celebration", "Anniversary Surprise", "Love Milestone"],
-    thumbnail: "/images/gallery/IMG_20251130_190628327.jpg",
+    thumbnail: "/images/gallery/IMG_20251130_190628327.webp",
     images: [
-      "/images/gallery/IMG_20251130_190628327.jpg",
-      "/images/gallery/IMG_20251130_190653723.jpg",
-      "/images/gallery/IMG_20251126_195913666.jpg"
+      "/images/gallery/IMG_20251130_190628327.webp",
+      "/images/gallery/IMG_20251130_190653723.webp",
+      "/images/gallery/IMG_20251126_195913666.webp"
     ]
   },
   {
@@ -305,11 +305,11 @@ Perfect for couples who love evening celebrations and romantic ambiance.`,
       "Cake Available (+₹500)"
     ],
     perfectFor: ["Anniversary Date", "Romantic Evening", "Surprise Anniversary", "Night Celebration"],
-    thumbnail: "/images/gallery/IMG_20251201_201429116.jpg",
+    thumbnail: "/images/gallery/IMG_20251201_201429116.webp",
     images: [
-      "/images/gallery/IMG_20251201_201429116.jpg",
-      "/images/gallery/IMG_20251201_201504639.jpg",
-      "/images/gallery/IMG_20251201_201519850.jpg"
+      "/images/gallery/IMG_20251201_201429116.webp",
+      "/images/gallery/IMG_20251201_201504639.webp",
+      "/images/gallery/IMG_20251201_201519850.webp"
     ]
   },
   {
@@ -355,11 +355,11 @@ Ideal for couples who appreciate intimate settings and meaningful moments.`,
       "Cake Available (+₹500)"
     ],
     perfectFor: ["Quiet Anniversary", "Intimate Celebration", "Simple Romance", "Meaningful Moments"],
-    thumbnail: "/images/gallery/IMG_20251203_202600922.jpg",
+    thumbnail: "/images/gallery/IMG_20251203_202600922.webp",
     images: [
-      "/images/gallery/IMG_20251203_202600922.jpg",
-      "/images/gallery/IMG_20251209_193815280.jpg",
-      "/images/gallery/IMG_20251213_191903856.jpg"
+      "/images/gallery/IMG_20251203_202600922.webp",
+      "/images/gallery/IMG_20251209_193815280.webp",
+      "/images/gallery/IMG_20251213_191903856.webp"
     ]
   },
   {
@@ -405,11 +405,11 @@ This is our signature premium experience designed for couples who want to create
       "Photo Props & Accessories"
     ],
     perfectFor: ["Milestone Anniversary", "Special Surprise", "Premium Celebration", "Photography Lovers"],
-    thumbnail: "/images/gallery/IMG-20250123-WA0014.jpg",
+    thumbnail: "/images/gallery/IMG-20250123-WA0014.webp",
     images: [
-      "/images/gallery/IMG-20250123-WA0014.jpg",
-      "/images/gallery/IMG-20250123-WA0018.jpg",
-      "/images/gallery/IMG-20250123-WA0029.jpg"
+      "/images/gallery/IMG-20250123-WA0014.webp",
+      "/images/gallery/IMG-20250123-WA0018.webp",
+      "/images/gallery/IMG-20250123-WA0029.webp"
     ]
   },
   {
@@ -455,11 +455,11 @@ Perfect for couples who want a sophisticated, pure, and peaceful anniversary cel
       "Cake Available (+₹500)"
     ],
     perfectFor: ["Elegant Anniversary", "White Theme Lovers", "Peaceful Celebration", "Classic Romance"],
-    thumbnail: "/images/gallery/IMG-20250123-WA0033.jpg",
+    thumbnail: "/images/gallery/IMG-20250123-WA0033.webp",
     images: [
-      "/images/gallery/IMG-20250123-WA0033.jpg",
-      "/images/gallery/IMG-20250123-WA0037.jpg",
-      "/images/gallery/IMG-20250123-WA0039.jpg"
+      "/images/gallery/IMG-20250123-WA0033.webp",
+      "/images/gallery/IMG-20250123-WA0037.webp",
+      "/images/gallery/IMG-20250123-WA0039.webp"
     ]
   }
 ];
