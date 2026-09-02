@@ -46,7 +46,7 @@ export const siteConfig = {
     accent: "#5B1A30", // Dark Wine
     gradient: "from-[#7B1F36] to-[#5B1A30]",
     gradientHover: "from-[#6B1A30] to-[#4B1525]",
-    lightBg: "bg-amber-50",
+    lightBg: "bg-teal-50",
     darkBg: "bg-[#3D0F1B]",
     text: "text-[#7B1F36]"
   },

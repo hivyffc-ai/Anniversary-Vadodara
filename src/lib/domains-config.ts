@@ -155,11 +155,11 @@ export const domains: DomainConfig[] = [
       primary: "#F59E0B", // Amber/Golden
       secondary: "#FBBF24",
       accent: "#D97706",
-      gradient: "from-amber-500 to-orange-600",
-      gradientHover: "from-amber-600 to-orange-700",
-      lightBg: "bg-amber-50",
-      darkBg: "bg-amber-900",
-      text: "text-amber-600"
+      gradient: "from-teal-500 to-orange-600",
+      gradientHover: "from-teal-600 to-orange-700",
+      lightBg: "bg-teal-50",
+      darkBg: "bg-teal-900",
+      text: "text-teal-600"
     },
     heroImages: ["/images/hero/candle1.jpg", "/images/hero/candle2.jpg", "/images/hero/candle3.jpg"],
     keywords: [
