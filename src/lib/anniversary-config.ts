@@ -164,7 +164,7 @@ Ideal for couples who appreciate elegance and want an intimate, private celebrat
   {
     id: "anniversary-3",
     slug: "golden-promise-glass-house",
-    name: "Golden Promise Glass House",
+    name: "Golden Promise Glass House (Indoor)",
     emoji: "✨💛🏡",
     shortDescription: "Celebrate under the stars with city lights as your backdrop",
     fullDescription: `🌟 Starlit Anniversary Rooftop — Your Love Deserves a Night Under the Stars
@@ -215,7 +215,7 @@ Perfect for couples who love outdoor settings and starry nights.`,
   {
     id: "anniversary-4",
     slug: "moonlit-romance-experience",
-    name: "Moonlit Romance Experience",
+    name: "Moonlit Romance Experience (Indoor)",
     emoji: "🌙💞",
     shortDescription: "A classic romantic setup celebrating your enduring love",
     fullDescription: `💝 Timeless Love Experience — Classic Romance for Timeless Love
@@ -265,7 +265,7 @@ Ideal for couples who love classic romance and timeless elegance.`,
   {
     id: "anniversary-5",
     slug: "the-promise-creative-area",
-    name: "The Promise Creative Area",
+    name: "The Promise Creative Area (Indoor)",
     emoji: "💍",
     shortDescription: "An enchanting evening celebration under the moonlight",
     fullDescription: `🌙 Moonlit Romance Anniversary — Let the Moon Witness Your Love
@@ -315,7 +315,7 @@ Perfect for couples who love evening celebrations and romantic ambiance.`,
   {
     id: "anniversary-6",
     slug: "timeless-bond-glass-house",
-    name: "Timeless Bond Glass House",
+    name: "Timeless Bond Glass House (Indoor)",
     emoji: "♾️💞🏡",
     shortDescription: "Simple elegance for meaningful anniversary moments",
     fullDescription: `🤍 Intimate Anniversary Celebration — Simplicity Meets Romance
@@ -365,7 +365,7 @@ Ideal for couples who appreciate intimate settings and meaningful moments.`,
   {
     id: "anniversary-7",
     slug: "sweet-together-glass-house",
-    name: "Sweet Together Glass House",
+    name: "Sweet Together Glass House (Indoor)",
     emoji: "🍯💖",
     shortDescription: "Premium rooftop celebration with custom love frame photo setup",
     fullDescription: `💝 Forever Us LoveFrame — Capture Your Love in a Perfect Frame
@@ -415,7 +415,7 @@ This is our signature premium experience designed for couples who want to create
   {
     id: "anniversary-8",
     slug: "pure-love-glass-house",
-    name: "Pure Love Glass House",
+    name: "Pure Love Glass House (Indoor)",
     emoji: "🤍💍🏡",
     shortDescription: "An elegant white-themed anniversary celebration in our glass house",
     fullDescription: `🤍 Pure Love Paradise — Celebrate Your Pure & Timeless Bond
